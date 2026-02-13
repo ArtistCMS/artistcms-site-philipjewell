@@ -1,0 +1,54 @@
+{
+  "template": ["navigation", "logo", "bio", "releases", "tour", "gallery", "socials"],
+  "css": {
+    "--primary-color": "#333",
+    "--secondary-color": "white",
+    "--tertiary-color": "grey",
+    "--quaternary-color": "grey",
+    "--text-color": "black",
+    "--logo-width": "25%"
+  },
+  "head": {
+    "title": "Philip Jewell - ArtistCMS",
+    "description": "some metadata to help improve google search results",
+    "keywords": "musician, demo, artistcms",
+    "google_analytics": "G-MZFFG6NXCD"
+  },
+  "app": {
+    "logo": "https://philipjewell.com/content/diamond.png",
+    "bandsintown": "14588698",
+    "bio": {
+      "name": "Philip Jewell",
+      "genre": "Metalcore / Rock / Indie",
+      "about": "After years of playing bass in various projects, Philip Jewell has started releasing music under his solo project.\nMusic under my name is always (royalty) free."
+    },
+    "releases": [
+      "https://soundcloud.com/philipjewell/push",
+      "https://soundcloud.com/philipjewell/paled-perspective-instrumental",
+      "https://soundcloud.com/philipjewell/ill-be-there"
+    ],
+    "gallery": {
+      "0030880827_10.jpg":  "Philip Jewell - solo musician 2022",
+      "21768700_317496748716172_7613730751622342236_o.jpg": "Philip Jewell - The Attraction by Tim Harmon, pop/rock band 2010",
+      "21950840_317496808716166_6117493896068266025_o.jpg":  "Philip Jewell - The Attraction, pop/rock band 2009",
+      "4472039686_34420e48a2_c.jpg": "Philip Jewell b&w - Covine at Badlands 2010",
+      "4472040506_c4c07810fb_c.jpg":  "Philip Jewell - Covine at Badlands 2010",
+      "4634147246_ab323ee204_c.jpg": "Philip Jewell - Covine at The Clubhouse 2010",
+      "4487696151_56d7d80987_h.jpg": "Philip Jewell - Covine by Ethan Beazley 2010"
+    },
+    "socials": {
+      "bandcamp": "https://philipjewell.bandcamp.com/",
+      "soundcloud": "https://soundcloud.com/philipjewell",
+      "x": "https://x.com/philipjewell",
+      "youtube": "https://www.youtube.com/@philipjewell",
+      "instagram": "https://www.instagram.com/philipmjewell/",
+      "facebook": "https://www.facebook.com/philipjewellmusic/",
+      "spotify": "https://open.spotify.com/artist/5pbjGKCmzpS9Ng4TVHfXyc",
+      "amazon": "https://www.amazon.com/music/player/artists/B0B2WM9JZ4/philip-jewell",
+      "itunes": "https://music.apple.com/mv/artist/philip-jewell/1627258177",
+      "lastfm": "https://www.last.fm/music/Philip+Jewell"
+    }
+  }
+}
+
+
