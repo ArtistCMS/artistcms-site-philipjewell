@@ -1,13 +1,12 @@
 {
   "template": [
     "navigation",
-    "logo",
+    "header",
     "bio",
     "releases",
     "tour",
     "gallery",
-    "socials",
-    "header"
+    "socials"
   ],
   "css": {
     "--primary-color": "#333",
