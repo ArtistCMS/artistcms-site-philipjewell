@@ -6,7 +6,8 @@
     "releases",
     "tour",
     "gallery",
-    "socials"
+    "socials",
+    "header"
   ],
   "css": {
     "--primary-color": "#333",
@@ -62,5 +63,10 @@
       "itunes": "https://music.apple.com/mv/artist/philip-jewell/1627258177",
       "lastfm": "https://www.last.fm/music/Philip+Jewell"
     }
+  },
+  "headerOptions": {
+    "showName": true,
+    "showGenre": false,
+    "showLogo": true
   }
 }
