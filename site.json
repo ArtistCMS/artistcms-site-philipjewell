@@ -65,7 +65,7 @@
   },
   "headerOptions": {
     "showName": true,
-    "showGenre": false,
+    "showGenre": true,
     "showLogo": true
   }
 }
