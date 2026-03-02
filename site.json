@@ -5,7 +5,8 @@
     "bio",
     "releases",
     "gallery",
-    "socials"
+    "socials",
+    "tour"
   ],
   "css": {
     "--primary-color": "#333",
